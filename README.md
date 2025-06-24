@@ -48,6 +48,10 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
+## 🤝 Let's Connect
+[WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -60,9 +64,6 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-## 🤝 Let's Connect  
-📞 [Message me on WhatsApp](https://wa.me/01915367729)
 
----
 
 
