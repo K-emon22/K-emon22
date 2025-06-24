@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 
 =======
-![Banner](https://i.ibb.co/MxfWKnPm/Gemini-Generated-Image-hwxwlghwxwlghwxw.png)
+![Banner](https://i.ibb.co/q3z5JRjP/Gemini-Generated-Image-hwxwlghwxwlghwxw-2.png)
 
 # 👋 Hi, I'm Md Emon Sheikh
 
