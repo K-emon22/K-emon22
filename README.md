@@ -19,7 +19,7 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-## 🛠️ Skills
+## 🛠️ My Skills
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
