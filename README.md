@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 ![Banner](https://i.ibb.co/q3z5JRjP/Gemini-Generated-Image-hwxwlghwxwlghwxw-2.png)
 
 # 👋 Hi, I'm Md Emon Sheikh
