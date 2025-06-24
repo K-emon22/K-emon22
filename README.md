@@ -11,6 +11,12 @@ Nurerchala, Dhaka, Bangladesh — near Gulshan & Bashundhara
 I am a passionate developer focused on building modern web applications.  
 Currently exploring **React.js** and working on a **tourism website** project.
 
+### 🔄 Currently Working On:
+
+- 🚀 Building a **Product Delivery Platform** with real-time order and rider features.
+- 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress.
+- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes.
+
 ## 🛠️ Skills
 
 <p>
