@@ -19,13 +19,6 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-### 🔄 Currently Working On:
-
-- 🚀 Building a **Product Delivery Platform** with real-time order and rider features.
-- 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress.
-- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes.
----
-
 ## 🛠️ Skills
 
 <p>
@@ -46,10 +39,13 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-## 🌍 Connect with Me  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
+### 🔄 Currently Working On:
 
+- 🚀 Building a **Product Delivery Platform** with real-time order and rider features.
+- 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress.
+- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes.
 ---
+
 
 ## 📊 GitHub Stats  
 
@@ -59,3 +55,8 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-emon22&layout=compact" alt="Top Languages" /></td>
   </tr>
 </table>
+
+## 🌍 Connect with Me  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
+
+---
