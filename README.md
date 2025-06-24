@@ -20,7 +20,7 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 ---
 
 
-### 🔄 Currently Working On:
+## 🔄 Currently Working On
 
 - 🚀 Building a **Product Delivery Platform** with real-time order and rider features.
 - 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress.
@@ -60,8 +60,8 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-## 🌍 Connect with Me  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
+## 🤝 Let's Connect  
+📞 [Message me on WhatsApp](https://wa.me/01915367729)
 
 ---
 
