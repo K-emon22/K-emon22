@@ -25,9 +25,8 @@ Currently exploring **React.js** and working on a **tourism website** project.
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/K-emon22)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-121013?logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mohammad.emon.sheikh)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
 ---
 
