@@ -12,10 +12,9 @@ Nurerchala, Vatara, Dhaka-1212, Bangladesh
 ---
 
 ## 🧍 About Me  
-I am a passionate developer focused on building modern, responsive web applications.
-I specialize in using the MERN stack — MongoDB, Express.js, React, and Node.js.
-I am dedicated to writing clean, efficient code and continuously improving my skills through learning and hands-on projects.
-
+I am a **passionate developer** focused on building **modern, responsive web applications**.  
+I specialize in using the **MERN stack** — **MongoDB**, **Express.js**, **React**, and **Node.js**.  
+I am dedicated to writing **clean**, **efficient code** and continuously improving my skills through learning and hands-on projects.
 ---
 
 ### 🔄 Currently Working On:
