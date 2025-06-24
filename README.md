@@ -7,7 +7,7 @@
 ---
 
 ## 📍 Location  
-**Nurerchala, Dhaka, Bangladesh** — near Gulshan & Bashundhara
+Nurerchala, Vatara, Dhaka-1212, Bangladesh
 
 ---
 
