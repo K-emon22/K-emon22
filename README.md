@@ -25,14 +25,13 @@ Currently exploring **React.js** and working on a **tourism website** project.
 
 ## 🌍 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mohammad.emon.sheikh)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
----
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-emon22&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-emon22&layout=compact)
->>>>>>> 8a57052 (All)
+
 
