@@ -17,11 +17,11 @@ Currently exploring **React.js** and working on a **tourism website** project.
 
 ---
 
-### 🔄 Currently Working On:  
-- 🚀 Building a **Product Delivery Platform** with real-time order & rider features.  
-- 📚 Developing a **Bookshelf App** with authentication, reviews & reading progress tracking.  
-- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes.
+### 🔄 Currently Working On:
 
+- 🚀 Building a **Product Delivery Platform** with real-time order and rider features.
+- 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress.
+- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes.
 ---
 
 ## 🛠️ Skills
