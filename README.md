@@ -19,6 +19,15 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
+
+### 🔄 Currently Working On:
+
+- 🚀 Building a **Product Delivery Platform** with real-time order and rider features.
+- 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress.
+- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes.
+---
+
+
 ## 🛠️ My Skills
 
 <p>
@@ -37,13 +46,6 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
----
-
-### 🔄 Currently Working On:
-
-- 🚀 Building a **Product Delivery Platform** with real-time order and rider features.
-- 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress.
-- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes.
 ---
 
 
