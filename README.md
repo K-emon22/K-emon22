@@ -6,11 +6,14 @@
 
 ---
 
-## 📍 Location  
-Nurerchala, Vatara, Dhaka-1212, Bangladesh
+## 📍 Contact Information  
+- **Location:** Nurerchala, Vatara, Dhaka-1212, Bangladesh  
+- **Email:** [emonsheikhkhalid2@gmail.com](mailto:emonsheikhkhalid2@gmail.com)
+---
+## 🌍 Connect with Me  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
 ---
-
 
 ## 🧍 About Me  
 I am a **passionate developer** focused on building **modern, responsive web applications**.  
@@ -58,7 +61,4 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
   </tr>
 </table>
 
-## 🌍 Connect with Me  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
----
