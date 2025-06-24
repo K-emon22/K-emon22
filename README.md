@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Md Emon Sheikh**
 
-### 🚀 MEAN Stack Web Developer
+### 🚀 Junior MERN Stack Web Developer
 
 ---
 
