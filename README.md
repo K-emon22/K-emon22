@@ -9,11 +9,7 @@
 ## 📍 Contact Information  
 - **Location:** Nurerchala, Vatara, Dhaka-1212, Bangladesh  
 - **Email:** [emonsheikhkhalid2@gmail.com](mailto:emonsheikhkhalid2@gmail.com)
-- 
-## 🤝 Let's Connect  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
----
 
 ---
 
@@ -64,5 +60,10 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
     </td>
   </tr>
 </table>
+
+---
+
+## 🤝 Let's Connect  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
 ---
