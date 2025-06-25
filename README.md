@@ -3,6 +3,13 @@
 # 👋 Hi, I'm **Md Emon Sheikh**
 
 ### 🚀 Junior MERN Stack Web Developer
+---
+
+## 🧍 About Me  
+I am a **passionate developer** focused on building **modern, responsive web applications**.  
+Specialize in using the **MERN stack** — **MongoDB**, **Express.js**, **React**, and **Node.js**.  
+I am dedicated to writing **clean**, **efficient code**, and constantly improving my skills through **learning** and **hands-on projects**.
+
 
 ---
 
@@ -10,12 +17,6 @@
 - **Location:** Nurerchala, Vatara, Dhaka-1212, Bangladesh  
 - **Email:** [emonsheikhkhalid2@gmail.com](mailto:emonsheikhkhalid2@gmail.com)
 
----
-
-## 🧍 About Me  
-I am a **passionate developer** focused on building **modern, responsive web applications**.  
-Specialize in using the **MERN stack** — **MongoDB**, **Express.js**, **React**, and **Node.js**.  
-I am dedicated to writing **clean**, **efficient code**, and constantly improving my skills through **learning** and **hands-on projects**.
 
 ---
 
