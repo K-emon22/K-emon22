@@ -9,26 +9,24 @@
 ## 📍 Contact Information  
 - **Location:** Nurerchala, Vatara, Dhaka-1212, Bangladesh  
 - **Email:** [emonsheikhkhalid2@gmail.com](mailto:emonsheikhkhalid2@gmail.com)
----
 
+---
 
 ## 🧍 About Me  
 I am a **passionate developer** focused on building **modern, responsive web applications**.  
-I specialize in using the **MERN stack** — **MongoDB**, **Express.js**, **React**, and **Node.js**.  
+Specialize in using the **MERN stack** — **MongoDB**, **Express.js**, **React**, and **Node.js**.  
 I am dedicated to writing **clean**, **efficient code**, and constantly improving my skills through **learning** and **hands-on projects**.
 
 ---
 
+## 🔄 Currently Working On  
+- 🚀 Building a **Product Delivery Platform** with real-time order and rider features  
+- 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress  
+- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes  
 
-## 🔄 Currently Working On
-
-- 🚀 Building a **Product Delivery Platform** with real-time order and rider features.
-- 📚 Developing a **Bookshelf App** with authentication, reviews, and reading progress.
-- 🍳 Creating a **RecipeBook App** to share and explore cooking recipes.
 ---
 
-
-## 🛠️ My Skills
+## 🛠️ My Skills  
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -48,7 +46,7 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
 ---
@@ -57,13 +55,13 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=K-emon22&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-emon22&layout=compact" alt="Top Languages" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=K-emon22&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-emon22&layout=compact" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
 ---
-
-
-
-
