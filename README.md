@@ -13,12 +13,6 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-## 📍 Contact Information  
-- **Location:** Nurerchala, Vatara, Dhaka-1212, Bangladesh  
-- **Email:** [emonsheikhkhalid2@gmail.com](mailto:emonsheikhkhalid2@gmail.com)
-
-
----
 
 ## 🛠️ My Skills  
 
@@ -98,6 +92,12 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
     </td>
   </tr>
 </table>
+
+---
+## 📍 Contact Information  
+- **Location:** Nurerchala, Vatara, Dhaka-1212, Bangladesh  
+- **Email:** [emonsheikhkhalid2@gmail.com](mailto:emonsheikhkhalid2@gmail.com)
+
 
 ---
 
