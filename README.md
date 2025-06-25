@@ -52,7 +52,7 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://emons-bookshelf.netlify.app/" style="color: #60a5fa; text-decoration: none;">📚 Emons Bookshelf</a></td>
+      <td><a href="https://emons-bookshelf.netlify.app/" style="color: #60a5fa; text-decoration: none;">📚Bookshelf</a></td>
       <td>Coming soon</td>
       <td>Coming soon</td>
       <td>N/A</td>
@@ -66,7 +66,7 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
       <td>N/A</td>
     </tr>
     <tr>
-      <td><a href="https://chill-bill.netlify.app/" style="color: #60a5fa; text-decoration: none;">💰 Chill Bill Budget Tracker</a></td>
+      <td><a href="https://chill-bill.netlify.app/" style="color: #60a5fa; text-decoration: none;">💰 Chill Bill</a></td>
       <td>Coming soon</td>
       <td>Coming soon</td>
       <td>N/A</td>
