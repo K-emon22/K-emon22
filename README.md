@@ -10,7 +10,6 @@
 - **Location:** Nurerchala, Vatara, Dhaka-1212, Bangladesh  
 - **Email:** [emonsheikhkhalid2@gmail.com](mailto:emonsheikhkhalid2@gmail.com)
 
-
 ---
 
 ## 🧍 About Me  
@@ -47,7 +46,6 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-
 ## 📊 GitHub Stats  
 
 <table>
@@ -67,3 +65,18 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
 ---
+
+<br/>
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together! ✨
+
+<hr style="margin-top: 20px;"/>
+
+💻 *Crafted with passion using Markdown · Updated regularly*  
+📅 *Last updated: {{PUT_DATE_HERE}}*
+
+</div>
