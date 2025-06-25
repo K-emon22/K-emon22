@@ -59,7 +59,7 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
       <td>N/A</td>
     </tr>
     <tr>
-      <td><a href="https://emons-bookshelf.netlify.app/" style="color: #60a5fa; text-decoration: none;">🍽️ RecipeBook App</a></td>
+      <td><a href="https://emons-recipe-book.netlify.app" style="color: #60a5fa; text-decoration: none;">🍽️ RecipeBook App</a></td>
       <td>Coming soon</td>
       <td>Coming soon</td>
       <td>N/A</td>
