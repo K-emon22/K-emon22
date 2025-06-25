@@ -38,6 +38,44 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 </p>
 
 ---
+<h2>📂 Featured Projects</h2>
+
+<table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; text-align: center; width: 100%; background-color: #111827; color: #f9fafb; font-family: Arial, sans-serif;">
+  <thead style="background-color: #1f2937;">
+    <tr>
+      <th>📁 Projects</th>
+      <th>⭐ Stars</th>
+      <th>🍴 Forks</th>
+      <th>🐞 Issues</th>
+      <th>🔀 Pull Requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://emons-bookshelf.netlify.app/" style="color: #60a5fa; text-decoration: none;">📚 Emons Bookshelf</a></td>
+      <td>Coming soon</td>
+      <td>Coming soon</td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><a href="https://emons-bookshelf.netlify.app/" style="color: #60a5fa; text-decoration: none;">🍽️ RecipeBook App</a></td>
+      <td>Coming soon</td>
+      <td>Coming soon</td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><a href="https://chill-bill.netlify.app/" style="color: #60a5fa; text-decoration: none;">💰 Chill Bill Budget Tracker</a></td>
+      <td>Coming soon</td>
+      <td>Coming soon</td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ## 🔄 Currently Working On  
 - 🚀 Building a **Product Delivery Platform** with real-time order and rider features  
