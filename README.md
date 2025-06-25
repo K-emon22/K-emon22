@@ -61,10 +61,14 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 ---
 
-## 🤝 Let's Connect  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/01915367729)
 
----
+## 🤝 Let's Connect  
+
+<p align="center">
+  <a href="https://wa.me/01915367729" target="_blank">
+    <img src="https://img.shields.io/badge/Chat on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 <br/>
 
@@ -76,7 +80,4 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
 
 <hr style="margin-top: 20px;"/>
 
-💻 *Crafted with passion using Markdown · Updated regularly*  
-📅 *Last updated: {{PUT_DATE_HERE}}*
 
-</div>
