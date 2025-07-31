@@ -47,6 +47,13 @@ I am dedicated to writing **clean**, **efficient code**, and constantly improvin
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://kachaprice.netlify.app" style="color: #60a5fa; text-decoration: none;">KachaPrice</a></td>
+      <td>Coming soon</td>
+      <td>Coming soon</td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td><a href="https://emons-bookshelf.netlify.app/" style="color: #60a5fa; text-decoration: none;">📚Bookshelf</a></td>
       <td>Coming soon</td>
       <td>Coming soon</td>
