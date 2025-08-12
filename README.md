@@ -2,7 +2,7 @@
   <img
     src="https://i.ibb.co.com/ZpS44XTG/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466.gif"
     alt="Banner"
-    style="max-width: 100%; width: 100%; height: auto; display: block;"
+    style="max-width: 100%; width: 100%; display: block;"
   />
 </div>
 
