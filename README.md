@@ -1,5 +1,9 @@
-<div style="width: 100%;">
-  <img src="https://i.ibb.co.com/wFLzP1rs/fullstack.gif" alt="Banner" style="width: 100%; height: auto; display: block;" />
+<div style="width: 100%; margin: 0; padding: 0;">
+  <img
+    src="https://i.ibb.co.com/wFLzP1rs/fullstack.gif"
+    alt="Banner"
+    style="max-width: 100%; width: 100%; height: auto; display: block;"
+  />
 </div>
 
 # 👋 Hi, I'm **Md Emon Sheikh**
